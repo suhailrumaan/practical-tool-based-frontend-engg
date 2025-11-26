@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>welcome page</title>
+        <style>
+                    h1{
+                        text-allign:center;
+
+                    }
+                    p{
+                        color:darkgray
+                    }
+                    </style>
+                    </head>
+                    <body>
+                        <h1>welcome to web development</h1>
+                        <p>i want to learn css and html beacuse they are easy to understand and fun to learn</p>
+                        <p>html and css are basic coding languages that everyone should learn</p>
+                    </body>
+</html>

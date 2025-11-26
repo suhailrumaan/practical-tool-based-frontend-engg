@@ -1,0 +1,16 @@
+ <!DOCTYPE html>
+<html>
+    <head>
+        <title>addition result</title>
+    </head>
+    <body>
+        <h1>addition result</h1>
+        <p id="result"></p>
+        <script>
+            let a=5;
+            let b=10;
+            let sum=a+b;
+            document.getElementById("result").innerHTML="the sum of 5 and 10 is"+sum;
+                    </script>
+    </body>
+</html>
